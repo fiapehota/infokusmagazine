@@ -1,0 +1,2 @@
+# infokusmagazine
+my own magazine
